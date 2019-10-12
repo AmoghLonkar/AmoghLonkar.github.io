@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1.) [Prediction of perovskite and other ternary oxide multilayers as mirrors for soft X-rays]     (https://drive.google.com/file/d/19j6Jus_OAjkCHWNxTOrDyefUPMHigrbJ/view)
+K Luo, S Niu, D Shah, A Lonkar, Y Liu, J Ravichandran
+Materials Research Bulletin 98, 206-212
