@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amogh Lonkar"
 title_separator          : "-"
 name                     : &name "Amogh Lonkar"
-description              : &description "Pursuing PhD in Computer Engineering at UC Santa Cruz"
+description              : &description "Amogh's Personal Webpage"
 url                      : https://AmoghLonkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AmoghLonkar/AmoghLonkar.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Amogh Lonkar"
-  avatar           : "profile.png"
-  bio              : "PhD Student at UC Santa Cruz"
+  avatar           : "Mugshot.jpg"
+  bio              : "Pursuing PhD in Computer Engineering at UC Santa Cruz"
   location         : "Santa Cruz"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=s6wlstAAAAAJ&hl=en&oi=ao"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=s6wlstAAAAAJ&hl=en&oi=ao"
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/amogh-lonkar-438904105"
+  linkedin         : "Amogh Lonkar"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
