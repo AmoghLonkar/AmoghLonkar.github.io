@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amogh Lonkar"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Amogh Lonkar"
 description              : &description "Amogh's Personal Webpage"
